@@ -10,11 +10,11 @@ I used a multi-line chart to plot the average delay of 20 flights for various re
 3) Improve layout by removing gridlines and enhance user animation by providing a toolip when the user hovers over a data point for a specific month
 
 # Resources
-http://stat-computing.org/dataexpo/2009/the-data.html
-http://dimplejs.org/adhoc_viewer.html?id=adhoc_composite_axis_measure
-https://github.com/PMSI-AlignAlytics/dimple/wiki/dimple.color
-http://www.w3schools.com/tags/tag_select.asp
-http://www.rita.dot.gov/bts/help/aviation/html/understanding.html
-https://discussions.udacity.com/t/multi-series-line-chart-in-dimple/192881/9
-http://stackoverflow.com/questions/4350937/html-select-dropdown-list
+http://stat-computing.org/dataexpo/2009/the-data.html<br>
+http://dimplejs.org/adhoc_viewer.html?id=adhoc_composite_axis_measure<br>
+https://github.com/PMSI-AlignAlytics/dimple/wiki/dimple.color<br>
+http://www.w3schools.com/tags/tag_select.asp<br>
+http://www.rita.dot.gov/bts/help/aviation/html/understanding.html<br>
+https://discussions.udacity.com/t/multi-series-line-chart-in-dimple/192881/9<br>
+http://stackoverflow.com/questions/4350937/html-select-dropdown-list<br>
 https://github.com/PMSI-AlignAlytics/dimple/wiki/dimple.chart#assignColor
