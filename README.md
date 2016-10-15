@@ -10,6 +10,7 @@ I used a multi-line chart to plot the average delay of 20 flights for various re
 3) Improve layout by removing gridlines and enhance user animation by providing a toolip when the user hovers over a data point for a specific month
 
 # Resources
+http://stat-computing.org/dataexpo/2009/the-data.html
 http://dimplejs.org/adhoc_viewer.html?id=adhoc_composite_axis_measure
 https://github.com/PMSI-AlignAlytics/dimple/wiki/dimple.color
 http://www.w3schools.com/tags/tag_select.asp
